@@ -1,5 +1,4 @@
 # SPSGP-528677-URL-Based-Phishing-Detection-using-machine-learning
-URL-Based Phishing Detection using machine learning
 
 # URL-Based-Phishing-Detection-using-machine-Learning
 I develop this URL-based Phishing Detection Using Machine Learning.
